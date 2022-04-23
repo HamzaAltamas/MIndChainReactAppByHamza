@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MindChainReactAppByHAmza/static/css/main.b1a40f87.css",
+    "main.js": "/MindChainReactAppByHAmza/static/js/main.207a3a9c.js",
+    "static/js/787.28cb0dcd.chunk.js": "/MindChainReactAppByHAmza/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/MindChainReactAppByHAmza/index.html",
+    "main.b1a40f87.css.map": "/MindChainReactAppByHAmza/static/css/main.b1a40f87.css.map",
+    "main.207a3a9c.js.map": "/MindChainReactAppByHAmza/static/js/main.207a3a9c.js.map",
+    "787.28cb0dcd.chunk.js.map": "/MindChainReactAppByHAmza/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1a40f87.css",
+    "static/js/main.207a3a9c.js"
+  ]
+}
